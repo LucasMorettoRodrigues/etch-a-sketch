@@ -1,0 +1,29 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+    height: 480px;
+    padding: 2px;
+    background-color: black;
+    margin: 30px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(206, 206, 206);
+}
+
+#unit {
+    background-color: rgb(255, 255, 255);
+}
+
+#row {
+    display: flex;
+}
+
+#btns {
+    text-align: center;
+}
